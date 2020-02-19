@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9bdf7d232d50634485f7e798dbe9490, type: 3}
+  m_Name: Key
+  m_EditorClassIdentifier: 
+  order: 4
+  name: Key
+  itemSprite: {fileID: 21300000, guid: ac294517e8d2096469c4ac4b386e098a, type: 3}
+  itemColor: {r: 1, g: 0.6509804, b: 0, a: 1}
+  itemHolderPos: {x: 0, y: 0}
+  itemHolderSize:
+    width: 70
+    height: 61
+  hintSprite: {fileID: 21300000, guid: 04d843b1053570143bb5a0a24ee89521, type: 3}
+  hintColor: {r: 0, g: 0.90588236, b: 1, a: 1}
+  hintCost: 10
+  hintHolderPos: {x: 0, y: 0.24}
+  hintHolderSize:
+    width: 1.07
+    height: 1.07

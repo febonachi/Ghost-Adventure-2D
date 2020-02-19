@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Environment
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: DeepBackground
+    uniqueID: 4178637607
+    locked: 0
+  - name: ParallaxBackground
+    uniqueID: 3012159957
+    locked: 0
+  - name: Background
+    uniqueID: 1097272883
+    locked: 0
+  - name: BackgroundEnvironment
+    uniqueID: 1445414321
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2108078243
+    locked: 0
+  - name: ForegroundEnvironment
+    uniqueID: 3789207521
+    locked: 0
+  - name: ParallaxForeground
+    uniqueID: 3768576481
+    locked: 0
+  - name: Foreground
+    uniqueID: 2997726825
+    locked: 0
+  - name: DeepForeground
+    uniqueID: 2314368209
+    locked: 0
